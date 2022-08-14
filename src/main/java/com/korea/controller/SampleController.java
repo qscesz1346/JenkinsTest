@@ -11,5 +11,8 @@ public class SampleController {
 	public void test() {
 		
 	}
+	@GetMapping("/test2")
+	public void test2() {}
+
 	
 }
