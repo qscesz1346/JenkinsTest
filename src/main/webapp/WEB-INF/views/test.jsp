@@ -7,10 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Deploy TEST</h1>
-TEST<br>
-TEST<br>
-Update!!<br>
-이동관123123
+<h1>2022.08.16 애를리케이션 배포 시험</h1>
+<h3>이동관</h3>
 </body>
 </html>
