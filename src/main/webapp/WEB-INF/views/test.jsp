@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>2022.08.16 애를리케이션 배포 시험</h1>
+<h1>2022.08.16 애플리케이션 배포 시험</h1>
 <h2>이동관</h2>
 </body>
 </html>
